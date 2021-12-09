@@ -24,3 +24,15 @@ please feel free to contact me about this project by my email address **shahedi[
 
 ![](LDPC_i20_vs_i2000/THR.png)
 
+### LDPC vs Polar 
+
+![](LDPC_vs_POLAR/BER.png)
+
+![](LDPC_vs_POLAR/FER.png)
+
+### Polar vs Turbo
+
+
+
+![](POLAR_vs_Turbo/Figure_1.png)
+
